@@ -1,12 +1,13 @@
-# samsung_py_project
-Proyecto python para Samsung Innovation Campus
+# Proyecto python para Samsung Innovation Campus
 
-# 📈 Análisis Histórico de Acciones Tecnológicas
+# Análisis de las acciones de las 3 principales compañías de diseños de GPUs y CPUs.
+![image](https://github.com/user-attachments/assets/9e2363d3-4ef5-4755-939c-132e8e11b5dc)
 
-![Banner de Proyecto](https://via.placeholder.com/800x200?text=AMD+Intel+NVIDIA+Stock+Analysis)
 
-## 📋 Descripción
-Análisis comparativo de series temporales del precio de acciones de tres líderes tecnológicos (AMD, Intel, NVIDIA) desde 1980 hasta la fecha actual, utilizando Python y herramientas de visualización interactiva.
+##  Descripción
+Analizasis de los precios de las acciones de las principales compañías de GPUs (Nvidia, AMD e Intel) en relación con sus innovaciones tecnológicas y eventos externos significativos desde 1980 hasta 2024.
+![image](https://github.com/user-attachments/assets/ba6300d1-3cb9-49f5-93a3-6b5d5926bcff)
+
 
 ## 🧰 Tecnologías Utilizadas
 - ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -14,17 +15,3 @@ Análisis comparativo de series temporales del precio de acciones de tres líder
 - ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-blueviolet)
 - ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-## 📁 Estructura del Proyecto
-```bash
-.
-├── /data/
-│   ├── AMD.csv
-│   ├── INTEL.csv
-│   └── NVIDIA.csv
-├── /notebooks/
-│   └── analysis.ipynb
-├── /output/
-│   ├── historical_trend.png
-│   └── comparative_analysis.html
-├── requirements.txt
-└── README.md
